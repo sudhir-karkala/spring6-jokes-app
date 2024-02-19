@@ -3,7 +3,6 @@ package guru.springframework.spring6jokesapp.controllers;
 import guru.springframework.spring6jokesapp.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
